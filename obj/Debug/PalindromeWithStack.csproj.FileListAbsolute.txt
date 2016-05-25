@@ -1,0 +1,6 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\bin\Debug\PalindromeWithStack.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\bin\Debug\PalindromeWithStack.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\bin\Debug\PalindromeWithStack.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\obj\Debug\PalindromeWithStack.csprojResolveAssemblyReference.cache
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\obj\Debug\PalindromeWithStack.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\PalindromeWithStack\PalindromeWithStack\obj\Debug\PalindromeWithStack.pdb
